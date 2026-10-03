@@ -261,10 +261,6 @@ The application allows users to enter their own movie reviews and receive a sent
 - 📊 Confidence score
 - 📈 Prediction probability breakdown
 
-### Try the Application
-
-👉 **[Movie Review Sentiment Analyzer](YOUR_STREAMLIT_APP_LINK)**
-
 ---
 
 # 🖥️ Running the Application Locally
@@ -272,8 +268,8 @@ The application allows users to enter their own movie reviews and receive a sent
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/purple279/Sentiment_Analysis_DistilBERT.git
+cd Sentiment_Analysis_DistilBERT
 ```
 
 ### 2. Install dependencies
