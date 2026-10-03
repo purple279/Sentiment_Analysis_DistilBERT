@@ -8,7 +8,7 @@ The project covers the complete workflow from text preprocessing and tokenizatio
 
 ## 🚀 Live Demo
 
-### 🌐 [Try the Movie Review Sentiment Analyzer](https://sentimentanalysisdistilbert-geekhnz3okudwmf7nywxku.streamlit.app/)
+### 🌐 [Try the Movie Review Sentiment Analyzer](https://sentimentanalysisdistilbert-43cj25ou9esdunxt5ubsbv.streamlit.app/)
 
 Enter your own movie review and get a **Positive** or **Negative** sentiment prediction with confidence scores.
 
